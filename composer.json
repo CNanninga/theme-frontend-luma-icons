@@ -1,9 +1,9 @@
 {
     "name": "chrisnanninga/theme-frontend-luma-icons",
-    "description": "",
+    "description": "Directly extends the Magento Blank theme but implements the font icon set from the Luma theme. Includes CSS adjustments to scale font sizes in keeping with the Luma icons.",
     "require": {
-        "magento/theme-frontend-blank": "100.1.*",
-        "magento/framework": "100.1.*"
+        "magento/theme-frontend-blank": "^100.1.0",
+        "magento/framework": "^100.1.0"
     },
     "type": "magento2-theme",
     "version": "1.0.0",
